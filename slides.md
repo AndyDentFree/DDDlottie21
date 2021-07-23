@@ -263,6 +263,20 @@ I've selected the Ketchup item path inside the object to be able to change the c
 <aside class="notes">
 With the bun selected in the timeline, change the easing curve to make its shape change popup more abruptly.
 </aside>
+
+# Flow Demo 1
+![](./assets/screenSketch.png)
+
+# Flow Demo 2
+![](./assets/screenFlowSelectSketch.png)
+
+# Flow Demo 3
+![](./assets/screenFlowArtboardPicker.png)
+
+# Flow Demo 4
+![](./assets/screenFlowMain.png)
+
+
 # Further Details
 
 [**github.com/AndyDentFree/DDDLottie21**][gh] <br/>

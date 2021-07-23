@@ -337,6 +337,30 @@ With the bun selected in the timeline, change the easing curve to make its shape
 ```
 <!-- section 17 -->
 
+# Flow Demo 1
+
+![](./assets/screenSketch.png)
+
+<!-- section 18 -->
+
+# Flow Demo 2
+
+![](./assets/screenFlowSelectSketch.png)
+
+<!-- section 19 -->
+
+# Flow Demo 3
+
+![](./assets/screenFlowArtboardPicker.png)
+
+<!-- section 20 -->
+
+# Flow Demo 4
+
+![](./assets/screenFlowMain.png)
+
+<!-- section 21 -->
+
 # Further Details
 
 [**github.com/AndyDentFree/DDDLottie21**](https://github.com/AndyDentFree/DDDLottie21) `<br/>`{=html}
