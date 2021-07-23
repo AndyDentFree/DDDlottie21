@@ -1,0 +1,8 @@
+
+
+# Editor Key Stuff to Know
+
+- How to add/edit keyframes
+- Adjusting timing
+- Exporting and file format constraints
+

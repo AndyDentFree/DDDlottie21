@@ -9,6 +9,9 @@ I am using a Markdown approach using [markdeck][md] which augments `reveal.js` w
 
 I first used it in [2019][ddd19].
 
+To have a live site running the slides, so I can show the [Lottie Web Player][lottieWeb] 
+use simple server to serve locally via python just `python -m SimpleHTTPServer` which works on either Mac or Windows.
+
 ## Other Attributions
 
 ### Lottie Files used:
@@ -16,9 +19,14 @@ I first used it in [2019][ddd19].
 As per their [CC license][lottieCC]: 
 
 - [Hamburger][11655] by Ian Roberts
-
+- [Menu Volver][926] by Luisa Fernanda Bolaños Beltrán
+- [Jump][8103] by Luisa Fernanda Bolaños Beltrán
+- [Checked loading][961] by Luisa Fernanda Bolaños Beltrán
+- [Melting Lolly][69998] by smalloranges
 
 [11655]: https://lottiefiles.com/11655-hamburger
 [ddd]: https://dddperth.com/
 [md]: https://github.com/arnehilmann/markdeck
 [ddd19]:  https://www.youtube.com/watch?v=D1WSsEfkI0k
+[[lottieWeb]: https://lottiefiles.com/web-player
+[69998]: https://lottiefiles.com/69998-melting-lolly
