@@ -293,7 +293,7 @@ Keyshape has an extensible plugin architecture which includes [one they created 
 
 # Keyshape Demo 2
 
-![](./assets/screenKeyshapeHamburgerKetchupEdit1.png)
+![](./assets/screenKeyshapeHamburgerKetchupEdit.png)
 
 ```{=html}
 <aside class="notes">
@@ -303,6 +303,19 @@ I've selected the Ketchup item path inside the object to be able to change the c
 </aside>
 ```
 <!-- section 14 -->
+
+# Keyshape Demo 3
+
+![](./assets/screenKeyshapeHamburgerBunCurve.png)
+
+```{=html}
+<aside class="notes">
+```
+With the bun selected in the timeline, change the easing curve to make its shape change popup more abruptly.
+```{=html}
+</aside>
+```
+<!-- section 15 -->
 
 # Further Details
 

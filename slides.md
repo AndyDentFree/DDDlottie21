@@ -236,12 +236,18 @@ Keyshape has an extensible plugin architecture which includes [one they created 
 ![](./assets/screenKeyshapeHamburger.png)
 
 # Keyshape Demo 2
-![](./assets/screenKeyshapeHamburgerKetchupEdit1.png)
+![](./assets/screenKeyshapeHamburgerKetchupEdit.png)
 
 <aside class="notes">
 I've selected the Ketchup item path inside the object to be able to change the color
 </aside>
 
+# Keyshape Demo 3
+![](./assets/screenKeyshapeHamburgerBunCurve.png)
+
+<aside class="notes">
+With the bun selected in the timeline, change the easing curve to make its shape change popup more abruptly.
+</aside>
 
 # Further Details
 
