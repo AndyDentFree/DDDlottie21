@@ -264,7 +264,22 @@ I've selected the Ketchup item path inside the object to be able to change the c
 With the bun selected in the timeline, change the easing curve to make its shape change popup more abruptly.
 </aside>
 
-# Flow Demo 1
+# Flow
+
+<div class='left' style='float:left;width:20%'>
+<lottie-player 
+    src="./assets/flowDDD.min.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay >
+</lottie-player>
+</div>    
+<div class='right' style='float:right:width:70%'>
+Flow is focused on **UX** animation.
+
+Lottie export inc native code for iOS or Android, <br/>HTML includes minified.
+
+For control animations, <br/>also get native code, bytes vs kB.
+</div>
+
+# Flow Demo 1 - Start in Sketch
 ![](./assets/screenSketch.png)
 
 # Flow Demo 2

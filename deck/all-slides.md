@@ -337,29 +337,47 @@ With the bun selected in the timeline, change the easing curve to make its shape
 ```
 <!-- section 17 -->
 
-# Flow Demo 1
+# Flow
+
+::: {.left style="float:left;width:20%"}
+`<lottie-player 
+    src="./assets/flowDDD.min.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop autoplay >`{=html}
+`</lottie-player>`{=html}
+:::
+
+::: {.right style="float:right:width:70%"}
+Flow is focused on **UX** animation.
+
+Lottie export inc native code for iOS or Android, `<br/>`{=html}HTML includes minified.
+
+For control animations, `<br/>`{=html}also get native code, bytes vs kB.
+:::
+
+<!-- section 18 -->
+
+# Flow Demo 1 - Start in Sketch
 
 ![](./assets/screenSketch.png)
 
-<!-- section 18 -->
+<!-- section 19 -->
 
 # Flow Demo 2
 
 ![](./assets/screenFlowSelectSketch.png)
 
-<!-- section 19 -->
+<!-- section 20 -->
 
 # Flow Demo 3
 
 ![](./assets/screenFlowArtboardPicker.png)
 
-<!-- section 20 -->
+<!-- section 21 -->
 
 # Flow Demo 4
 
 ![](./assets/screenFlowMain.png)
 
-<!-- section 21 -->
+<!-- section 22 -->
 
 # Further Details
 
