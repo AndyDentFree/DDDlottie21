@@ -7,14 +7,14 @@ controls: true
 <!-- usual source https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js -->
 <script src="./assets/lottie-player.js"></script>
 
+# Sponsors
+![](./assets/sponsors.jpg)
+
 # Animation {bg=#eee}
 <h3>A Whole Lottie Tools out There</h3>
 <h4>Andy Dent</h4>
 
 ![](./assets/lottieSizeComparison.svg)
-
-# Sponsors
-![](./assets/sponsors.jpg)
 
 # Why Animate? - Lottie reasons
 
@@ -213,18 +213,33 @@ Even a simple animation has a ton of small components
 
 # Graphical Editors
 
-| Keyshape             |            Flow           |        Synfig |
-|----------------------|:-------------------------:|--------------:|
-| Mac                  |            Mac            | Mac/Win/Linux |
-| $47 once-off         |   $135 to $405 pa         |      Free GPL |
-| Import SVG or Lottie | Import Sketch, SVG, Figma |   Import SVG  |
-| Draw in tool         |        Edit in tool       |  Draw in tool |
-| Lottie visual editor(*)   |  Tweening & UX Animation  |      Tweening |
+| Synfig        |         Keyshape        |                      Flow |
+|:---------------|:-----------------------:|--------------------------:|
+| Mac/Win/Linux |           Mac           |                       Mac |
+| Free GPL      |       $47 once-off      |    $135 to $405 pa<br/>(Lottie $270) |
+| Import SVG    |   Import SVG or Lottie(*)  | Import Sketch, SVG, Figma |
+| Draw in tool  |       Draw in tool      |              Edit in tool |
+| Tweening      | Lottie visual editor(*) |   Tweening & UX Animation |
+
+Adobe After Effects is [$30/month][AEPrice]
 
 <aside class="notes">
 Keyshape has free 14 day trial including Lottie export as its via plugins. Flow Lottie export in middle tier $270 AUD
 Keyshape is basically extended SVG
 </aside>
+
+
+# Synfig
+Aimed more at people doing [full animated movies][SynfigUserReel]
+
+Like Blender, powerful but complicated UI to learn.
+
+Very rich drawing operators, full skeleton animations, face animation etc. inc _Onion Skinning_
+
+Easy to _Tween_ to animate between positions.
+
+# Synfig Demo
+![](./assets/synfigBallEditing.png)
 
 # Keyshape 
 Keyshape has an extensible plugin architecture which includes [one they created for Lottie import/export.][KSlottie]<br/>
@@ -248,7 +263,6 @@ I've selected the Ketchup item path inside the object to be able to change the c
 <aside class="notes">
 With the bun selected in the timeline, change the easing curve to make its shape change popup more abruptly.
 </aside>
-
 # Further Details
 
 [**github.com/AndyDentFree/DDDLottie21**][gh] <br/>
@@ -268,3 +282,7 @@ Twitter: @andydentperth
 [LottieFiles]: https://lottiefiles.com/
 [Melting Lolly]: https://lottiefiles.com/69998-melting-lolly
 [KSlottie]: https://github.com/Pixofield/keyshape-lottie-format
+[SynfigUserReel]: https://www.youtube.com/watch?v=fWAxFc9FPwA
+[SynfigAnimBasics]: https://wiki.synfig.org/Doc:Animation_Basics
+[AEPrice]: https://www.adobe.com/au/creativecloud/plans.html?filter=video-audio&plan=individual
+

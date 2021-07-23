@@ -6,6 +6,12 @@
 ```
 <!-- section 0 -->
 
+# Sponsors
+
+![](./assets/sponsors.jpg)
+
+<!-- section 1 -->
+
 # Animation {#animation bg="#eee"}
 
 ```{=html}
@@ -23,12 +29,6 @@ Andy Dent
 </h4>
 ```
 ![](./assets/lottieSizeComparison.svg)
-
-<!-- section 1 -->
-
-# Sponsors
-
-![](./assets/sponsors.jpg)
 
 <!-- section 2 -->
 
@@ -258,13 +258,15 @@ Even a simple animation has a ton of small components
 
 # Graphical Editors
 
-  Keyshape                              Flow                      Synfig
-  -------------------------- --------------------------- ---------------
-  Mac                                    Mac               Mac/Win/Linux
-  \$47 once-off                   \$135 to \$405 pa             Free GPL
-  Import SVG or Lottie        Import Sketch, SVG, Figma       Import SVG
-  Draw in tool                      Edit in tool            Draw in tool
-  Lottie visual editor(\*)     Tweening & UX Animation          Tweening
+  Synfig                   Keyshape                                                     Flow
+  --------------- -------------------------- -----------------------------------------------
+  Mac/Win/Linux              Mac                                                         Mac
+  Free GPL              \$47 once-off          \$135 to \$405 pa`<br/>`{=html}(Lottie \$270)
+  Import SVG       Import SVG or Lottie(\*)                        Import Sketch, SVG, Figma
+  Draw in tool           Draw in tool                                           Edit in tool
+  Tweening         Lottie visual editor(\*)                          Tweening & UX Animation
+
+Adobe After Effects is [\$30/month](https://www.adobe.com/au/creativecloud/plans.html?filter=video-audio&plan=individual)
 
 ```{=html}
 <aside class="notes">
@@ -276,6 +278,24 @@ Keyshape is basically extended SVG
 ```
 <!-- section 11 -->
 
+# Synfig
+
+Aimed more at people doing [full animated movies](https://www.youtube.com/watch?v=fWAxFc9FPwA)
+
+Like Blender, powerful but complicated UI to learn.
+
+Very rich drawing operators, full skeleton animations, face animation etc. inc *Onion Skinning*
+
+Easy to *Tween* to animate between positions.
+
+<!-- section 12 -->
+
+# Synfig Demo
+
+![](./assets/synfigBallEditing.png)
+
+<!-- section 13 -->
+
 # Keyshape
 
 Keyshape has an extensible plugin architecture which includes [one they created for Lottie import/export.](https://github.com/Pixofield/keyshape-lottie-format)`<br/>`{=html}
@@ -283,13 +303,13 @@ Keyshape has an extensible plugin architecture which includes [one they created 
 
 ![](./assets/screenKeyshapeFailLollyImport.png)
 
-<!-- section 12 -->
+<!-- section 14 -->
 
 # Keyshape Demo 1
 
 ![](./assets/screenKeyshapeHamburger.png)
 
-<!-- section 13 -->
+<!-- section 15 -->
 
 # Keyshape Demo 2
 
@@ -302,7 +322,7 @@ I've selected the Ketchup item path inside the object to be able to change the c
 ```{=html}
 </aside>
 ```
-<!-- section 14 -->
+<!-- section 16 -->
 
 # Keyshape Demo 3
 
@@ -315,7 +335,7 @@ With the bun selected in the timeline, change the easing curve to make its shape
 ```{=html}
 </aside>
 ```
-<!-- section 15 -->
+<!-- section 17 -->
 
 # Further Details
 
