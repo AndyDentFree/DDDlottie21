@@ -28,5 +28,5 @@ As per their [CC license][lottieCC]:
 [ddd]: https://dddperth.com/
 [md]: https://github.com/arnehilmann/markdeck
 [ddd19]:  https://www.youtube.com/watch?v=D1WSsEfkI0k
-[[lottieWeb]: https://lottiefiles.com/web-player
+[lottieWeb]: https://lottiefiles.com/web-player
 [69998]: https://lottiefiles.com/69998-melting-lolly
