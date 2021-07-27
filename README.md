@@ -24,6 +24,9 @@ As per their [CC license][lottieCC]:
 - [Checked loading][961] by Luisa Fernanda Bolaños Beltrán
 - [Melting Lolly][69998] by smalloranges
 
+[926]: https://lottiefiles.com/926-menu-volver
+[961]: https://lottiefiles.com/961-checked-loading
+[8103]: https://lottiefiles.com/8103-jump
 [11655]: https://lottiefiles.com/11655-hamburger
 [ddd]: https://dddperth.com/
 [md]: https://github.com/arnehilmann/markdeck
