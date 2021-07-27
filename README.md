@@ -28,8 +28,10 @@ As per their [CC license][lottieCC]:
 [961]: https://lottiefiles.com/961-checked-loading
 [8103]: https://lottiefiles.com/8103-jump
 [11655]: https://lottiefiles.com/11655-hamburger
+[69998]: https://lottiefiles.com/69998-melting-lolly
 [ddd]: https://dddperth.com/
 [md]: https://github.com/arnehilmann/markdeck
 [ddd19]:  https://www.youtube.com/watch?v=D1WSsEfkI0k
 [lottieWeb]: https://lottiefiles.com/web-player
-[69998]: https://lottiefiles.com/69998-melting-lolly
+[lottieCC]: https://lottiefiles.com/page/license
+
