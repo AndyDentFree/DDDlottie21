@@ -34,4 +34,6 @@ As per their [CC license][lottieCC]:
 [ddd19]:  https://www.youtube.com/watch?v=D1WSsEfkI0k
 [lottieWeb]: https://lottiefiles.com/web-player
 [lottieCC]: https://lottiefiles.com/page/license
+[lottiefiles]: https://lottiefiles.com/
+
 
