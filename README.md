@@ -1,6 +1,6 @@
 # DDDlottie21
 
-Material for my Lottie animation talk at [DDD 2021 conference][ddd] in Perth, Western Australia
+Material for my _Whole Lottie Tools_ animation talk at [DDD 2021 conference][ddd] in Perth, Western Australia
 
 For UX animation basics see my [DDD 2019 talk on animation][ddd19].
 
@@ -11,6 +11,14 @@ I first used it in [2019][ddd19].
 
 To have a live site running the slides, so I can show the [Lottie Web Player][lottieWeb] 
 use simple server to serve locally via python just `python -m SimpleHTTPServer` which works on either Mac or Windows.
+
+## Tools Being Discussed
+- [Flow]
+- [Keyshape]
+- [Synfig]
+- [Cavalry]
+
+With live demos of the first three.
 
 ## Other Attributions
 
@@ -35,5 +43,9 @@ As per their [CC license][lottieCC]:
 [lottieWeb]: https://lottiefiles.com/web-player
 [lottieCC]: https://lottiefiles.com/page/license
 [lottiefiles]: https://lottiefiles.com/
+[Flow]: https://createwithflow.com/
+[Cavalry]: https://cavalry.scenegroup.co/
+[Synfig]: https://www.synfig.org/
+[Keyshape]: https://www.keyshapeapp.com/
 
 
