@@ -245,6 +245,11 @@ Cavalry only popped onto my radar recently, initially had dismissed as being foc
 # Cavalry Export screenshot
 ![](./assets/screenCavalryExportLottie.png)
 
+# Synfig
+Aimed more at people doing [full animated movies][SynfigUserReel]
+ 
+Like Blender, powerful but complicated & not-always intuitable UI to learn.
+
 # Synfig Demo
 ![](./assets/synfigBallEditing.png)
 

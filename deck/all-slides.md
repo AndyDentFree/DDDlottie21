@@ -307,11 +307,19 @@ Cavalry only popped onto my radar recently, initially had dismissed as being foc
 
 <!-- section 13 -->
 
+# Synfig
+
+Aimed more at people doing [full animated movies](https://www.youtube.com/watch?v=fWAxFc9FPwA)
+
+Like Blender, powerful but complicated & not-always intuitable UI to learn.
+
+<!-- section 14 -->
+
 # Synfig Demo
 
 ![](./assets/synfigBallEditing.png)
 
-<!-- section 14 -->
+<!-- section 15 -->
 
 # Keyshape
 
@@ -320,13 +328,13 @@ Keyshape has an extensible plugin architecture which includes [one they created 
 
 ![](./assets/screenKeyshapeFailLollyImport.png)
 
-<!-- section 15 -->
+<!-- section 16 -->
 
 # Keyshape Demo 1
 
 ![](./assets/screenKeyshapeHamburger.png)
 
-<!-- section 16 -->
+<!-- section 17 -->
 
 # Keyshape Demo 2
 
@@ -339,7 +347,7 @@ I've selected the Ketchup item path inside the object to be able to change the c
 ```{=html}
 </aside>
 ```
-<!-- section 17 -->
+<!-- section 18 -->
 
 # Keyshape Demo 3
 
@@ -352,7 +360,7 @@ With the bun selected in the timeline, change the easing curve to make its shape
 ```{=html}
 </aside>
 ```
-<!-- section 18 -->
+<!-- section 19 -->
 
 # Flow
 
@@ -370,31 +378,31 @@ Lottie export inc native code for iOS or Android, `<br/>`{=html}HTML includes mi
 For control animations, `<br/>`{=html}also get native code, bytes vs kB.
 :::
 
-<!-- section 19 -->
+<!-- section 20 -->
 
 # Flow Demo 1 - Start in Sketch
 
 ![](./assets/screenSketch.png)
 
-<!-- section 20 -->
+<!-- section 21 -->
 
 # Flow Demo 2
 
 ![](./assets/screenFlowSelectSketch.png)
 
-<!-- section 21 -->
+<!-- section 22 -->
 
 # Flow Demo 3
 
 ![](./assets/screenFlowArtboardPicker.png)
 
-<!-- section 22 -->
+<!-- section 23 -->
 
 # Flow Demo 4
 
 ![](./assets/screenFlowMain.png)
 
-<!-- section 23 -->
+<!-- section 24 -->
 
 # Further Details
 
