@@ -103,6 +103,13 @@ Fast native players by [AirBnb](http://airbnb.io/lottie/#/) 2017 onwards
 
 Visual editors we will be talking about:`<br/>`{=html}[Keyshape](https://www.keyshapeapp.com/), [Flow](https://createwithflow.com/) and [Synfig](https://www.synfig.org/).
 
+```{=html}
+<aside class="notes">
+```
+see [Origin story](https://airbnb.design/introducing-lottie/)
+```{=html}
+</aside>
+```
 <!-- section 6 -->
 
 # Why does Text Matter?
@@ -258,43 +265,53 @@ Even a simple animation has a ton of small components
 
 # Graphical Editors
 
-  Synfig                   Keyshape                                                     Flow
-  --------------- -------------------------- -----------------------------------------------
-  Mac/Win/Linux              Mac                                                         Mac
-  Free GPL              \$47 once-off          \$135 to \$405 pa`<br/>`{=html}(Lottie \$270)
-  Import SVG       Import SVG or Lottie(\*)                        Import Sketch, SVG, Figma
-  Draw in tool           Draw in tool                                           Edit in tool
-  Tweening         Lottie visual editor(\*)                          Tweening & UX Animation
+  Synfig                 Keyshape                   Flow                Cavalry
+  ------------ ---------------------------- -------------------- ---------------------
+  M/W/L                    Mac                      Mac                 Mac/Win
+  Free GPL      \$47`<br/>`{=html}once-off      Lottie \$270          \$30/ month
+  Import SVG     Import SVG or Lottie(\*)    Sketch, SVG, Figma   SVG + Paste vectors
+                                             +Native Mobile UI        +Procedural
 
-Adobe After Effects is [\$30/month](https://www.adobe.com/au/creativecloud/plans.html?filter=video-audio&plan=individual)
+Adobe After Effects [\$30/month](https://www.adobe.com/au/creativecloud/plans.html?filter=video-audio&plan=individual)
 
 ```{=html}
 <aside class="notes">
 ```
-Keyshape has free 14 day trial including Lottie export as its via plugins. Flow Lottie export in middle tier \$270 AUD
+Keyshape has free 14 day trial including Lottie export as its via plugins.
 Keyshape is basically extended SVG
+
+Flow Lottie export in middle tier \$270 AUD, prices range \$135 .. \$450 for full native code export
 ```{=html}
 </aside>
 ```
 <!-- section 11 -->
 
-# Synfig
+# Cavalry
 
-Aimed more at people doing [full animated movies](https://www.youtube.com/watch?v=fWAxFc9FPwA)
+*[Cavalry](https://cavalry.scenegroup.co/) is a brand new procedural application with ambitions to make waves in the worlds of animation, design, creative coding, film, generative art, data visualisation, experiential and advertising.*
 
-Like Blender, powerful but complicated UI to learn.
+Incredibly powerful cross-platform product, worth a serious look but not demo'ing today due lack of time. See [video of Lottie export](https://www.youtube.com/watch?v=NH3x1wtKusU)
 
-Very rich drawing operators, full skeleton animations, face animation etc. inc *Onion Skinning*
-
-Easy to *Tween* to animate between positions.
-
+```{=html}
+<aside class="notes">
+```
+Cavalry only popped onto my radar recently, initially had dismissed as being focused on procedural animation. I just didn't have the time to learn another, very powerful tool & not inclined to sign up to pay a subscription to test the Lottie export.
+```{=html}
+</aside>
+```
 <!-- section 12 -->
+
+# Cavalry Export screenshot
+
+![](./assets/screenCavalryExportLottie.png)
+
+<!-- section 13 -->
 
 # Synfig Demo
 
 ![](./assets/synfigBallEditing.png)
 
-<!-- section 13 -->
+<!-- section 14 -->
 
 # Keyshape
 
@@ -303,13 +320,13 @@ Keyshape has an extensible plugin architecture which includes [one they created 
 
 ![](./assets/screenKeyshapeFailLollyImport.png)
 
-<!-- section 14 -->
+<!-- section 15 -->
 
 # Keyshape Demo 1
 
 ![](./assets/screenKeyshapeHamburger.png)
 
-<!-- section 15 -->
+<!-- section 16 -->
 
 # Keyshape Demo 2
 
@@ -322,7 +339,7 @@ I've selected the Ketchup item path inside the object to be able to change the c
 ```{=html}
 </aside>
 ```
-<!-- section 16 -->
+<!-- section 17 -->
 
 # Keyshape Demo 3
 
@@ -335,7 +352,7 @@ With the bun selected in the timeline, change the easing curve to make its shape
 ```{=html}
 </aside>
 ```
-<!-- section 17 -->
+<!-- section 18 -->
 
 # Flow
 
@@ -353,31 +370,31 @@ Lottie export inc native code for iOS or Android, `<br/>`{=html}HTML includes mi
 For control animations, `<br/>`{=html}also get native code, bytes vs kB.
 :::
 
-<!-- section 18 -->
+<!-- section 19 -->
 
 # Flow Demo 1 - Start in Sketch
 
 ![](./assets/screenSketch.png)
 
-<!-- section 19 -->
+<!-- section 20 -->
 
 # Flow Demo 2
 
 ![](./assets/screenFlowSelectSketch.png)
 
-<!-- section 20 -->
+<!-- section 21 -->
 
 # Flow Demo 3
 
 ![](./assets/screenFlowArtboardPicker.png)
 
-<!-- section 21 -->
+<!-- section 22 -->
 
 # Flow Demo 4
 
 ![](./assets/screenFlowMain.png)
 
-<!-- section 22 -->
+<!-- section 23 -->
 
 # Further Details
 

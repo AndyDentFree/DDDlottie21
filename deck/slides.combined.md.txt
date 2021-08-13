@@ -74,6 +74,10 @@ Fast native players by [AirBnb][airbnbLottie] 2017 onwards
 
 Visual editors we will be talking about:<br/>[Keyshape], [Flow] and [Synfig].
 
+<aside class="notes">
+see [Origin story][lottieOriginStory]
+</aside>
+
 # Why does Text Matter?
 
 <div class='left' style='float:left;width:20%'>
@@ -213,30 +217,33 @@ Even a simple animation has a ton of small components
 
 # Graphical Editors
 
-| Synfig        |         Keyshape        |                      Flow |
-|:---------------|:-----------------------:|--------------------------:|
-| Mac/Win/Linux |           Mac           |                       Mac |
-| Free GPL      |       $47 once-off      |    $135 to $405 pa<br/>(Lottie $270) |
-| Import SVG    |   Import SVG or Lottie(*)  | Import Sketch, SVG, Figma |
-| Draw in tool  |       Draw in tool      |              Edit in tool |
-| Tweening      | Lottie visual editor(*) |   Tweening & UX Animation |
+| Synfig        |         Keyshape        |                      Flow | Cavalry  |
+|:---------------|:-----------------------:|:--------------------------:|:--------------------------:|
+| M/W/L |           Mac           |                       Mac | Mac/Win |
+| Free GPL      |       $47<br/>once-off      |    Lottie $270 | $30/ month |
+| Import SVG    |   Import SVG or Lottie(*)  | Sketch, SVG, Figma |   SVG + Paste vectors |
+|       |  |   +Native Mobile UI  | +Procedural  |
 
-Adobe After Effects is [$30/month][AEPrice]
+Adobe After Effects  [$30/month][AEPrice] 
 
 <aside class="notes">
-Keyshape has free 14 day trial including Lottie export as its via plugins. Flow Lottie export in middle tier $270 AUD
+Keyshape has free 14 day trial including Lottie export as its via plugins. 
 Keyshape is basically extended SVG
+
+Flow Lottie export in middle tier $270 AUD, prices range $135 .. $450 for full native code export
 </aside>
 
+# Cavalry
+_[Cavalry] is a brand new procedural application with ambitions to make waves in the worlds of animation, design, creative coding, film, generative art, data visualisation, experiential and advertising._
 
-# Synfig
-Aimed more at people doing [full animated movies][SynfigUserReel]
+Incredibly powerful cross-platform product, worth a serious look but not demo'ing today due lack of time. See [video of Lottie export][CavalryLottievideo]
 
-Like Blender, powerful but complicated UI to learn.
+<aside class="notes">
+Cavalry only popped onto my radar recently, initially had dismissed as being focused on procedural animation. I just didn't have the time to learn another, very powerful tool & not inclined to sign up to pay a subscription to test the Lottie export.
+</aside>
 
-Very rich drawing operators, full skeleton animations, face animation etc. inc _Onion Skinning_
-
-Easy to _Tween_ to animate between positions.
+# Cavalry Export screenshot
+![](./assets/screenCavalryExportLottie.png)
 
 # Synfig Demo
 ![](./assets/synfigBallEditing.png)
@@ -302,6 +309,7 @@ Twitter: @andydentperth
 [gh]: https://github.com/AndyDentFree/DDDLottie21
 [lottieSamples]: https://lottiefiles.com/b.bfer
 [airbnbLottie]: http://airbnb.io/lottie/#/
+[lottieOriginStory]: https://airbnb.design/introducing-lottie/
 [Keyshape]: https://www.keyshapeapp.com/
 [lottieAE]: http://airbnb.io/lottie/#/supported-features
 [Flow]: https://createwithflow.com/
@@ -314,5 +322,5 @@ Twitter: @andydentperth
 [SynfigUserReel]: https://www.youtube.com/watch?v=fWAxFc9FPwA
 [SynfigAnimBasics]: https://wiki.synfig.org/Doc:Animation_Basics
 [AEPrice]: https://www.adobe.com/au/creativecloud/plans.html?filter=video-audio&plan=individual
-
-
+[Cavalry]: https://cavalry.scenegroup.co/
+[CavalryLottievideo]: https://www.youtube.com/watch?v=NH3x1wtKusU
