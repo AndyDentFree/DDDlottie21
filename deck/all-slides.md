@@ -268,7 +268,7 @@ Even a simple animation has a ton of small components
   Synfig                 Keyshape                   Flow                Cavalry
   ------------ ---------------------------- -------------------- ---------------------
   M/W/L                    Mac                      Mac                 Mac/Win
-  Free GPL      \$47`<br/>`{=html}once-off      Lottie \$270          \$30/ month
+  Free GPL      \$47`<br/>`{=html}once-off     Lottie \$270pa         \$30/ month
   Import SVG     Import SVG or Lottie(\*)    Sketch, SVG, Figma   SVG + Paste vectors
                                              +Native Mobile UI        +Procedural
 
