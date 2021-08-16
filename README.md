@@ -25,6 +25,7 @@ With live demos of the first three.
 See the `animationOutput` folder for the art generated during the live demos:
 
 - Synfig Studio - `recordingDay.sifz`
+- Keyshape - `11655-hamburgerColored.keyshape` and the `json` file
 
 ## Other Attributions
 
