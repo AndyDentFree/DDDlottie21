@@ -1,0 +1,21 @@
+{
+  "exportPath" : "~\/dev\/DDDlottie21\/animationOutput",
+  "externalTemplates" : [
+
+  ],
+  "includedTemplates" : [
+    "B2961A12-455A-4B4E-ABA4-71E7EC3A04FA",
+    "8327F24B-C91E-4843-838E-E04599D57CA1",
+    "521B2FA9-B678-4DE4-B823-05D2E74663A1",
+    "731FCF42-C33C-416E-8D46-EEE3FB69B166",
+    "A68459C6-1BF0-4BFE-A78A-C7EE0D489ACC",
+    "6A1544CB-9BDF-42BC-9D3B-50F13E13EF3C"
+  ],
+  "includedTimelines" : [
+    "5DFD376E-50AB-44AA-B0E3-2FBC27096425"
+  ],
+  "liveExport" : false,
+  "templatesArguments" : [
+
+  ]
+}

@@ -26,6 +26,7 @@ See the `animationOutput` folder for the art generated during the live demos:
 
 - Synfig Studio - `recordingDay.sifz`
 - Keyshape - `11655-hamburgerColored.keyshape` and the `json` file
+- Flow - see the starting file `animations/DDDlogoToAnimate.sketch` and **all** possible animations in the folder `DDDlogo`, not just the `Lottie-Web sample`
 
 ## Other Attributions
 

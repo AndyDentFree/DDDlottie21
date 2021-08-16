@@ -1,0 +1,19 @@
+{
+  "items" : [
+    {
+      "id" : "A71E53AE-54B7-4C1E-80BC-FC613226B530",
+      "name" : "Custom Curve",
+      "timingFunction" : {
+        "controlPoint1" : [
+          0.61899999999999999,
+          -0.80300000000000005
+        ],
+        "controlPoint2" : [
+          0.83199999999999996,
+          2
+        ],
+        "name" : "Custom"
+      }
+    }
+  ]
+}
