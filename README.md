@@ -20,6 +20,12 @@ use simple server to serve locally via python just `python -m SimpleHTTPServer` 
 
 With live demos of the first three.
 
+### Output from the live demos
+
+See the `animationOutput` folder for the art generated during the live demos:
+
+- Synfig Studio - `recordingDay.sifz`
+
 ## Other Attributions
 
 ### Lottie Files used:
