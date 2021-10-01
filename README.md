@@ -22,6 +22,8 @@ use simple server to serve locally via python just `python -m SimpleHTTPServer` 
 
 With live demos of the first three.
 
+**Update 2021-10-01** since I did the presentation, Flow have come out with an [amazing series of videos][FlowCasts] showing off more advanced use but also some great tips on animation in general.
+
 ### Output from the live demos
 
 See the `animationOutput` folder for the art generated during the live demos:
@@ -58,5 +60,6 @@ As per their [CC license][lottieCC]:
 [Synfig]: https://www.synfig.org/
 [Keyshape]: https://www.keyshapeapp.com/
 [video]: https://www.youtube.com/watch?v=jPVDOcqQAag
+[FlowCasts]: https://vimeo.com/showcase/8736427
 
 
