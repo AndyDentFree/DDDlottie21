@@ -2,6 +2,8 @@
 
 Material for my _Whole Lottie Tools_ animation talk at [DDD 2021 conference][ddd] in Perth, Western Australia
 
+Watch the video now on [YouTube][video].
+
 For UX animation basics see my [DDD 2019 talk on animation][ddd19].
 
 ## Authoring Tools used
@@ -19,6 +21,8 @@ use simple server to serve locally via python just `python -m SimpleHTTPServer` 
 - [Cavalry]
 
 With live demos of the first three.
+
+**Update 2021-10-01** since I did the presentation, Flow have come out with an [amazing series of videos][FlowCasts] showing off more advanced use but also some great tips on animation in general.
 
 ### Output from the live demos
 
@@ -55,5 +59,7 @@ As per their [CC license][lottieCC]:
 [Cavalry]: https://cavalry.scenegroup.co/
 [Synfig]: https://www.synfig.org/
 [Keyshape]: https://www.keyshapeapp.com/
+[video]: https://www.youtube.com/watch?v=jPVDOcqQAag
+[FlowCasts]: https://vimeo.com/showcase/8736427
 
 
